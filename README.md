@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hemant-Gurjar
-- 👀 I’m interested in 
+- 👀 I’m interested in MR (Mixed Reality)
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me +91 9027079556
 
